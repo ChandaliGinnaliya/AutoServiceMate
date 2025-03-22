@@ -1,0 +1,10 @@
+------------------Auto Service Mate------------------
+
+Service Invoice
+
+Vehicle ID: 01
+Service Type: Full service
+Total Cost: Rs. 40000.0
+
+-----------------------------------------------------
+Thank you for choosing Auto Service Mate! Come again!
